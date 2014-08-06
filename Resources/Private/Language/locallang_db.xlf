@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="default" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+		<header/>
+		<body>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service">
+				<source>Service</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.titre">
+				<source>Titre</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.display_mode">
+                <source>Mode d'affichage</source>
+            </trans-unit>
+            <trans-unit id="tx_lboservicesenligne_domain_model_service.list_pid">
+                <source>Page de la liste complète</source>
+            </trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.homepage">
+                <source>Page d'accueil</source>
+            </trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.full">
+                <source>Complet</source>
+            </trans-unit>
+		</body>
+	</file>
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+    		<header/>
+    		<body>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service">
+    				<source>Service</source>
+    			</trans-unit>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service.titre">
+    				<source>Title</source>
+    			</trans-unit>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service.url">
+    				<source>Url</source>
+    			</trans-unit>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service.description">
+    				<source>Description</source>
+    			</trans-unit>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service.type">
+    				<source>Type</source>
+    			</trans-unit>
+    			<trans-unit id="tx_lboservicesenligne_domain_model_service.display_mode">
+                    <source>Display mode</source>
+                </trans-unit>
+                 <trans-unit id="tx_lboservicesenligne_domain_model_service.list_pid">
+                    <source>Complete list page</source>
+                </trans-unit>
+                <trans-unit id="tx_lboservicesenligne_domain_model_service.homepage">
+                    <source>Homepage</source>
+                </trans-unit>
+                <trans-unit id="tx_lboservicesenligne_domain_model_service.full">
+                    <source>Full</source>
+                </trans-unit>
+    		</body>
+    	</file>
+</xliff>

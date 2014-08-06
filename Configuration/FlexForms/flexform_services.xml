@@ -1,0 +1,62 @@
+<T3DataStructure>
+    <meta>
+        <langDisable>1</langDisable>
+    </meta>
+    <sheets>
+        <!--
+            ################################
+              SHEET General Settings
+            ################################
+        -->
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>Configurations</sheetTitle>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <!-- Template -->
+                    <settings.displayMode>
+                        <TCEforms>
+                            <label>LLL:EXT:lbo_services_en_ligne/Resources/Private/Language/locallang_db.xlf:tx_lboservicesenligne_domain_model_service.display_mode</label>
+                            <config>
+                                <type>select</type>
+                                <items>
+                                    <numIndex index="0">
+                                        <numIndex index="0">LLL:EXT:lbo_services_en_ligne/Resources/Private/Language/locallang_db.xlf:tx_lboservicesenligne_domain_model_service.homepage</numIndex>
+                                        <numIndex index="1">homepage</numIndex>
+                                    </numIndex>
+                                    <numIndex index="1">
+                                        <numIndex index="0">LLL:EXT:lbo_services_en_ligne/Resources/Private/Language/locallang_db.xlf:tx_lboservicesenligne_domain_model_service.full</numIndex>
+                                        <numIndex index="1">full</numIndex>
+                                    </numIndex>
+                                </items>
+                            </config>
+                        </TCEforms>
+                    </settings.displayMode>
+
+                    <!-- PID list Page -->
+                    <settings.ListPid>
+                        <TCEforms>
+                            <label>LLL:EXT:lbo_services_en_ligne/Resources/Private/Language/locallang_db.xlf:tx_lboservicesenligne_domain_model_service.list_pid</label>
+                            <config>
+                                <type>group</type>
+                                <internal_type>db</internal_type>
+                                <allowed>pages</allowed>
+                                <size>1</size>
+                                <maxitems>1</maxitems>
+                                <minitems>0</minitems>
+                                <show_thumbs>1</show_thumbs>
+                                <wizards>
+                                    <suggest>
+                                        <type>suggest</type>
+                                    </suggest>
+                                </wizards>
+                            </config>
+                        </TCEforms>
+                    </settings.ListPid>
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+		<header/>
+		<body>
+		    <trans-unit id="tx_lboservicesenligne_domain_model_service.online">
+                <source>Services en ligne</source>
+            </trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service">
+				<source>Service</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.titre">
+				<source>Titre</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.formulaires">
+                <source>Formulaires</source>
+            </trans-unit>
+            <trans-unit id="tx_lboservicesenligne_domain_model_service.consultation">
+                <source>Consultation</source>
+            </trans-unit>
+             <trans-unit id="tx_lboservicesenligne_domain_model_service.plus">
+                <source>En savoir plus sur nos services en ligne</source>
+            </trans-unit>
+            <trans-unit id="tx_lboservicesenligne_domain_model_service.nouvelle_fenetre">
+                <source>Ce lien s'ouvrira dans une nouvelle fenêtre</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

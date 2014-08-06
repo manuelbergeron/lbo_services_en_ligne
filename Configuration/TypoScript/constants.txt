@@ -1,0 +1,15 @@
+
+plugin.tx_lboservicesenligne {
+	view {
+		# cat=plugin.tx_lboservicesenligne/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:lbo_services_en_ligne/Resources/Private/Templates/
+		# cat=plugin.tx_lboservicesenligne/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:lbo_services_en_ligne/Resources/Private/Partials/
+		# cat=plugin.tx_lboservicesenligne/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:lbo_services_en_ligne/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_lboservicesenligne//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

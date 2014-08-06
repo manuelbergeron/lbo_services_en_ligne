@@ -1,0 +1,49 @@
+
+plugin.tx_lboservicesenligne {
+	view {
+		templateRootPath = {$plugin.tx_lboservicesenligne.view.templateRootPath}
+		partialRootPath = {$plugin.tx_lboservicesenligne.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_lboservicesenligne.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_lboservicesenligne.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_lboservicesenligne._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-lbo-services-en-ligne table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-lbo-services-en-ligne table th {
+		font-weight:bold;
+	}
+
+	.tx-lbo-services-en-ligne table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+)
