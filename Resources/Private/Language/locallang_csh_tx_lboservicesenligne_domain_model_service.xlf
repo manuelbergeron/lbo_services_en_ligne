@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
 		<header/>
 		<body>
 			<trans-unit id="titre.description">

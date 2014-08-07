@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-    <file source-language="en" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+    <file source-language="fr" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
         <header/>
         <body>
             <trans-unit id="tx_lboservicesenligne_domain_model_service">
-                <source>Service</source>
+                <target>Service</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.online">
-                <source>Online services</source>
+                <target>Online services</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.titre">
-                <source>title</source>
+                <target>title</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.url">
-                <source>Url</source>
+                <target>Url</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.description">
-                <source>Description</source>
+                <target>Description</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.type">
-                <source>Type</source>
+                <target>Type</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.formulaires">
-                <source>Forms</source>
+                <target>Forms</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.consultation">
-                <source>Consultation</source>
+                <target>Consultation</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.plus">
-                <source>Learn more about online services</source>
+                <target>Learn more about online services</target>
             </trans-unit>
             <trans-unit id="tx_lboservicesenligne_domain_model_service.nouvelle_fenetre">
-                <source>This link will open in a new window</source>
+                <target>This link will open in a new window</target>
             </trans-unit>
         </body>
     </file>

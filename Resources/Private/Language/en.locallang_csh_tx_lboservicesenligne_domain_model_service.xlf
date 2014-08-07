@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="fr" datatype="plaintext" original="messages" date="2014-07-22T21:33:37Z" product-name="lbo_services_en_ligne">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
 		<header/>
 		<body>
 			<trans-unit id="titre.description">
-				<source>titre</source>
+				<target>titre</target>
 			</trans-unit>
 			<trans-unit id="url.description">
-				<source>url</source>
+				<target>url</target>
 			</trans-unit>
 			<trans-unit id="description.description">
-				<source>description</source>
+				<target>description</target>
 			</trans-unit>
 			<trans-unit id="type.description">
-				<source>type</source>
+				<target>type</target>
 			</trans-unit>
 		</body>
 	</file>

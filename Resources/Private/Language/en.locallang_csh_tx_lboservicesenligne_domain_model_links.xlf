@@ -4,16 +4,16 @@
 		<header/>
 		<body>
 			<trans-unit id="titre.description">
-				<source>titre</source>
+				<target>titre</target>
 			</trans-unit>
 			<trans-unit id="url.description">
-				<source>url</source>
+				<target>url</target>
 			</trans-unit>
 			<trans-unit id="description.description">
-				<source>description</source>
+				<target>description</target>
 			</trans-unit>
 			<trans-unit id="type.description">
-				<source>type</source>
+				<target>type</target>
 			</trans-unit>
 		</body>
 	</file>

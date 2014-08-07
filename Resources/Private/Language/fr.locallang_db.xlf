@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="default" datatype="plaintext" original="messages" date="2014-07-22T21:35:26Z" product-name="lbo_services_en_ligne">
+		<header/>
+		<body>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service">
+				<target>Service</target>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.titre">
+				<target>Titre</target>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.url">
+				<target>Url</target>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.description">
+				<target>Description</target>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.type">
+				<target>Type</target>
+			</trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.display_mode">
+                <target>Mode d'affichage</target>
+            </trans-unit>
+            <trans-unit id="tx_lboservicesenligne_domain_model_service.list_pid">
+                <target>Page de la liste complète</target>
+            </trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.homepage">
+                <target>Page d'accueil</target>
+            </trans-unit>
+			<trans-unit id="tx_lboservicesenligne_domain_model_service.full">
+                <target>Complet</target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>
